@@ -1,1 +1,1 @@
-  Folder where images are stored when uploaded too generate captions
+  Folder where images are stored when uploaded to generate captions
